@@ -14,7 +14,7 @@ To free a array of data values delete[] operator must be used. */
     {
         double *p = new double[80];
         cout<<sizeof(double)<<endl;
-        delete p;
+        delete[] p;
     }
 
     int main()
