@@ -1,5 +1,7 @@
 /*...................................Virtual Base Class............................*/
 
+//Diamond problem can be resolved by virtual base class
+
 #include<iostream>
 using namespace std;
 
