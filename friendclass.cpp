@@ -1,5 +1,5 @@
 /*........................................friend class.....................*/
-
+//sample
 #include<iostream>
 using namespace std;
 
